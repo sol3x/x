@@ -1,0 +1,25 @@
+/* dashboard/assets/custom.css */
+/* این فایل برای استایل‌های سفارشی جزئی استفاده می‌شود. */
+/* Dash به طور خودکار این فایل را بارگذاری می‌کند. */
+
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+.card {
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.badge {
+    font-size: 1rem;
+}
+
+.table {
+    font-size: 0.9rem;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
