@@ -1,0 +1,9 @@
+pandas
+MetaTrader5
+dash
+dash-bootstrap-components
+plotly
+pytz
+dash-auth
+requests
+numpy
